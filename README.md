@@ -47,8 +47,10 @@ and not create a conciese projects  projects (I planning to do that myself, mayb
 
 Microsoft Virtual Academy Test-Driven Developmemnt course 
 
-05/26/2018 - Test-Driven Development in a Nutshell part 1,2,3
+05/26/2018 - Microsoft Virtual Academy(https://mva.microsoft.com/en-us/training-courses/testdriven-development-16458?l=So8VVBwXC_5106218965) Test-Driven Developmemnt course - Development in a Nutshell part 1,2,3
+
 05/27/2018 - Test-Drive Development in a Nutshell part 4,5,6,7,8,9
+
 
 
 
